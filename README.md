@@ -34,7 +34,7 @@ AI/ML Engineer with 3+ years building production-grade AI systems — from RAG p
 | 💰 **[Investo-clinic](https://github.com/Ultra123-hub/Long-term-Investor-Prediction-with-Machine-Learning-Engaging-with-the-Investment-Community)** | CRISP-DM pipeline predicting long-term deposit makers | Pandas, Scikit-learn, Random Forest, CatBoost |
 | 🤖 **[Autoresearch](https://github.com/Ultra123-hub/autoresearch)** | Agentic research runner for single-GPU nanochat training | PyTorch, PyArrow, Rustbpe, Muon + AdamW |
 
-*(Replace the `#` links above with your actual repo URLs)*
+
 
 ---
 

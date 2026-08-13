@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Uthman Abdulrahman 👋</h1>
-<h3 align="center">AI/ML Engineer — Machine Learning, RAG, Multi-Agent Systems & Applied ML and MLOps/h3>
+<h3 align="center">AI/ML Engineer — Machine Learning, RAG, Multi-Agent Systems, Applied ML and MLOps </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/uthman-abdulrahman-54455919a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>

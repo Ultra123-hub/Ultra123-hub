@@ -2,9 +2,9 @@
 <h3 align="center">AI/ML Engineer — RAG, Multi-Agent Systems & Applied NLP</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/uthman-abdulrahman-54455919a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:ayomideuthman89@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://www.datascienceportfol.io/Uthman_Abdulrahman"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
 </p>
 
 ---
@@ -25,11 +25,11 @@ AI/ML Engineer with 3+ years building production-grade AI systems — from RAG p
 
 | Project | Description | Stack |
 |---|---|---|
-| 🏥 **[Well-bridge](#)** | WhatsApp-native multilingual RAG chatbot delivering capacity building & support for TB patients | Flask, LangChain, Pinecone, HuggingFace, GCP CloudRun |
-| 🌾 **[Farmers' Compass](#)** | Automated retraining pipeline for creditworthiness, connecting investors & farmers | Scikit-learn, Gradio, HuggingFace, CI/CD |
-| 🌍 **[Neural Translation Model](#)** | Fine-tuned MT5 for English → Yoruba translation | SimpleTransformers, Sacrebleu, HuggingFace |
-| 💰 **[Investo-clinic](#)** | CRISP-DM pipeline predicting long-term deposit makers | Pandas, Scikit-learn, Random Forest, CatBoost |
-| 🤖 **[Autoresearch](#)** | Agentic research runner for single-GPU nanochat training | PyTorch, PyArrow, Rustbpe, Muon + AdamW |
+| 🏥 **[Well-bridge](https://github.com/AHFIDAILabs/WellBridgeBot)** | WhatsApp-native multilingual RAG chatbot delivering capacity building & support for TB patients | Flask, LangChain, Pinecone, HuggingFace, GCP CloudRun |
+| 🌾 **[Farmers' Compass](https://github.com/Ultra123-hub/farmer-s-credit-worthiness)** | Automated retraining pipeline for creditworthiness, connecting investors & farmers | Scikit-learn, Gradio, HuggingFace, CI/CD |
+| 🌍 **[Neural Translation Model](https://github.com/Ultra123-hub/DSN-AI-Hackathon-2024-Low-Resource-Translation-English-Yoruba-Using-MT5-Model)** | Fine-tuned MT5 for English → Yoruba translation | SimpleTransformers, Sacrebleu, HuggingFace |
+| 💰 **[Investo-clinic](https://github.com/Ultra123-hub/Long-term-Investor-Prediction-with-Machine-Learning-Engaging-with-the-Investment-Community)** | CRISP-DM pipeline predicting long-term deposit makers | Pandas, Scikit-learn, Random Forest, CatBoost |
+| 🤖 **[Autoresearch](https://github.com/Ultra123-hub/autoresearch)** | Agentic research runner for single-GPU nanochat training | PyTorch, PyArrow, Rustbpe, Muon + AdamW |
 
 *(Replace the `#` links above with your actual repo URLs)*
 

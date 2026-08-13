@@ -14,11 +14,13 @@
 
 AI/ML Engineer with 3+ years building production-grade AI systems — from RAG pipelines and multi-agent orchestration to fine-tuned NLP models for low-resource languages. I care about the full lifecycle: model design, deployment, observability, and the governance layer most teams skip.
 
-- 🔭 Currently building AI capacity-building tools and climate early-warning systems as **Senior Associate AI Engineer** @ Africa Hub for Innovation and Development
-- 🌱 Deep hands-on work in **RAG, LangChain, LangGraph, multi-agent orchestration, and fine-tuning**
+- 🔭 Currently building scalable AI Solutions in the Healthtech space as **Senior Associate AI Engineer** @ Africa Hub for Innovation and Development
+- 🌱 Deep hands-on work in **Classical ML, RAG, Model deployment and ML System Design, LangChain, LangGraph, multi-agent orchestration, and fine-tuning**
+- 🥇 Won the DSN AI Bootcamp Hackathon Award in 2024
 - 🏛️ Wrote my org's first internal **AI Use & Data Protection Policy**
 - 🎓 BSc Statistics, University of Ibadan
 - 💬 Ask me about NLP for low-resource African languages, agentic AI systems, or ML observability
+
 
 ---
 
